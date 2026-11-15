@@ -1,0 +1,4 @@
+# Authorized ad sellers for Spellblocks (spellblocks.app).
+# Replace pub-0000000000000000 with your AdMob publisher ID
+# (AdMob > Settings > Account information), then remove the # from the line below.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
